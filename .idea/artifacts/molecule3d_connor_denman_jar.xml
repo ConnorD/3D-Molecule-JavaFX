@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="molecule3d_connor_denman:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/molecule3d_connor_denman_jar</output-path>
+    <root id="archive" name="Molecule3D.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/README.txt" />
+      <element id="directory" name="doc">
+        <element id="dir-copy" path="$PROJECT_DIR$/doc/cs351/connordenman/molecule3d" />
+      </element>
+      <element id="directory" name="src">
+        <element id="dir-copy" path="$PROJECT_DIR$/src/cs351/connordenman/molecule3d" />
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Molecule3D" />
+    </root>
+  </artifact>
+</component>

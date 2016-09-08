@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: /src/cs351/connordenman/molecule3d
+Main-Class: cs351.connordenman.molecule3d.Main
